@@ -1,0 +1,2 @@
+# customer-segmentation
+Applied ML
